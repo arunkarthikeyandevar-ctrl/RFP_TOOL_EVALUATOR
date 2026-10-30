@@ -1,0 +1,34 @@
+RFP RESPONSE: BUGATTI-W16-V16-HYPER-RESTRAINT-2026
+SUBMITTED BY: Schroth Safety Products GmbH (Im Ohl 14, Arnsberg, Germany)
+OEM SUPERCAR PEDIGREE: Supplier to Porsche GT RS division, Mercedes-AMG ONE, McLaren Senna, and Bugatti Bolide FIA systems.
+
+1. CRASH PHYSICS, PYROTECHNICS & GLOBAL HOMOLOGATION
+- Homologation Coverage: UN/ECE R16, FMVSS 209/210, GB 14166, TRIAS, and industry-gold-standard FIA 8853-2016 homologation. Includes patented Schroth ASM (Anti-Submarining) technology integrated into the 3-point and 6-point hybrid belt geometry.
+- Pyrotechnic Retractor & Buckle: Dual-stage pyrotechnic rotary actuator firing in 5.2 milliseconds (fastest in motorsport/hypercar segment).
+- Load Limiter Architecture: Patented dual-stage RLL (Rotary Load Limiter) transitioning from 4.5 kN to 2.8 kN with surgical repeatability (+/- 2% variance).
+- Pre-Crash Integration: CAN-FD reversible motorized pre-crash tensioner providing 210 N of instantaneous slack removal under 0.8G braking.
+
+2. HYPERCAR LIGHTWEIGHTING & EXOTIC MATERIALS
+- Total Installed Vehicle Mass (2 Seats Complete): 1,720 grams per car (860 grams per seat).
+- Hardware Metallurgy: Aerospace Ti-6Al-4V titanium rotary cam/buckle mechanisms and carbon-composite retractor frames borrowed from aviation defense programs.
+- Webbing Spec: Schroth Profi-Hyper 1.00 mm ultra-thin hybrid polyester/liquid-crystal polymer webbing, 29.8 kN breaking strength, 4.2% elongation at 11 kN.
+
+3. BUGATTI BESPOKE CRAFTSMANSHIP, LUXURY & ACOUSTICS/NVH
+- Bespoke Customization: Supports 35 bespoke Pantone colors; custom contrast stitching available, though ultra-complex multi-tone gradient weaves require a 3-car minimum dye batch.
+- UV & Abrasion Resistance: Delta-E = 1.05 after 1,500 hours Xenon-Arc testing. 75,000 cycle abrasion endurance.
+- Tactile & Acoustic Engineering: Billet CNC-milled titanium buckle with Alcantara and Nappa leather trim inserts. Buckle click measures 56.0 dB--crisp, mechanical, aviation-inspired lock.
+- NVH Performance: 0 dB rattle up to 1,500 Hz; precision spring-loaded tongue park stops B-pillar contact. Compatible with motorized presenters.
+
+4. MANUFACTURING QUALITY & ZERO-DEFECT TRACEABILITY
+- Certifications: IATF 16949:2016, EN 9100 (Aerospace Quality Management), ISO 14001, VDA 6.3 Audit Score 96% (Rating A).
+- Historical Defect Rate: 0.4 PPM across aviation and hypercar OEM lines.
+- Inspection Protocol: 100% aerospace-grade X-ray tomography on all pyrotechnic and locking assemblies; individual serial laser engraving with 40-year archive.
+
+5. COMMERCIAL ECONOMICS & LOW-VOLUME NRE STRUCTURE
+- Upfront NRE & Homologation Sled Testing: EUR 740,000 total.
+- Unit BOM Price (Per 2-Seat Vehicle Shipset): EUR 2,780.
+- Bespoke Sur Mesure Color Surcharge: EUR 520 per custom color setup (slightly above EUR 450 target for rare metallic shades).
+
+6. SUPPLY CHAIN RESILIENCE & MOLSHEIM ATELIER LOGISTICS
+- Delivery to Molsheim: 4.0-week lead time; direct 380 km logistics corridor from Arnsberg, Germany to Molsheim, France in sealed flight cases.
+- Sub-Tier Sourcing: 100% German and Austrian sub-tier metallurgy and pyrotechnics. 15-year warranty and 40-year classic spares guarantee.

@@ -1,0 +1,34 @@
+RFP RESPONSE: BUGATTI-W16-V16-HYPER-RESTRAINT-2026
+SUBMITTED BY: Sabelt S.p.A. (Viaapperlo 12, Moncalieri, Turin, Italy)
+OEM SUPERCAR PEDIGREE: Primary restraint supplier to Ferrari, McLaren, Maserati MC20, and Pagani track programs.
+
+1. CRASH PHYSICS, PYROTECHNICS & GLOBAL HOMOLOGATION
+- Homologation Coverage: Full dual-homologation under UN/ECE R16, FMVSS 209/210, GB 14166, and FIA 8853-2016 (for optional 6-point Sur Mesure Track Harness).
+- Pyrotechnic Retractor & Buckle: Co-developed with European pyrotechnic partner; dual-stage gas generator fires in 5.8 milliseconds upon CAN-FD crash trigger.
+- Load Limiter Architecture: CNC-machined progressive torsion bar switching smoothly from 4.4 kN peak arrest load down to 2.7 kN thoracic relief threshold.
+- Pre-Crash Integration: Integrated reversible brushless DC electric motor (180 N tensioning) paired with pyrotechnic backup for 0.8G panic braking pre-tensioning.
+
+2. HYPERCAR LIGHTWEIGHTING & EXOTIC MATERIALS
+- Total Installed Vehicle Mass (2 Seats Complete): 1,790 grams per car (895 grams per seat).
+- Hardware Metallurgy: Grade 5 Ti-6Al-4V Titanium D-rings and anchor plates; forged carbon-fiber retractor casing; billet 7075-T6 aluminum buckle chassis.
+- Webbing Spec: Proprietary Sabelt Ultralight Hybrid Polyester-Dyneema weave, 1.02 mm thickness, 28.4 kN minimum breaking load, 4.9% elongation at 11 kN.
+
+3. BUGATTI BESPOKE CRAFTSMANSHIP, LUXURY & ACOUSTICS/NVH
+- Bespoke Customization: Dedicated Turin Atelier dye-house supports unlimited Pantone matching (MOQ: 1 vehicle) plus woven Tricolore or Bugatti EB monograms.
+- UV & Abrasion Resistance: Xenon-Arc 1,500-hour tested at Delta-E = 0.85. Zero edge fraying at 60,000 cycles.
+- Tactile & Acoustic Engineering: Hand-stitched Poltrona Frau / Bugatti specification full-grain leather buckle sleeve with CNC-milled titanium release button. Buckle latch click tuned via internal neodymium magnetic damper to 54.5 dB horological acoustic signature.
+- NVH Performance: Felt-lined carbon retractor spool eliminates harmonic rattle across 10-1,600 Hz (0 dB buzz). Fully compatible with motorized B-pillar belt presenter.
+
+4. MANUFACTURING QUALITY & ZERO-DEFECT TRACEABILITY
+- Certifications: IATF 16949:2016, ISO 9001, ISO 14001, VDA 6.3 Audit Score 95% (Rating A).
+- Historical Defect Rate: 1.1 PPM across Ferrari and McLaren OEM programs.
+- Inspection Protocol: 100% 3D micro-CT X-ray scan of every pyrotechnic squib and locking pawl; automated vision camera checks every stitch; 35-year QR digital archive.
+
+5. COMMERCIAL ECONOMICS & LOW-VOLUME NRE STRUCTURE
+- Upfront NRE & Homologation Sled Testing: EUR 680,000 total (leveraging existing modular hypercar crash sled fixtures).
+- Unit BOM Price (Per 2-Seat Vehicle Shipset): EUR 2,650.
+- Bespoke Sur Mesure Color Surcharge: EUR 380 per custom vehicle order (MOQ 1 car).
+
+6. SUPPLY CHAIN RESILIENCE & MOLSHEIM ATELIER LOGISTICS
+- Delivery to Molsheim: 4.5-week lead time from spec freeze; direct road transport from Turin to Molsheim via climate-controlled velvet flight cases (420 km alpine transit).
+- Sub-Tier Sourcing: 100% Italian and German titanium and webbing mills. 15-year structural warranty and 40-year Bugatti Classic spare parts commitment.

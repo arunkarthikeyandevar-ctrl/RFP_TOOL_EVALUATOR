@@ -1,0 +1,34 @@
+RFP RESPONSE: BUGATTI-W16-V16-HYPER-RESTRAINT-2026
+SUBMITTED BY: Autoliv AB (Wallentinsvagen 22, Vargarda / Stockholm, Sweden)
+OEM SUPERCAR PEDIGREE: Global Tier-1 safety leader supplying Bentley Continental GT Speed, Porsche 911 Turbo S, and Mercedes-Maybach.
+
+1. CRASH PHYSICS, PYROTECHNICS & GLOBAL HOMOLOGATION
+- Homologation Coverage: Unmatched global certification library covering UN/ECE R16, FMVSS 209/210, CMVSS, GB 14166, TRIAS, KMVSS, and ADR. Note: Standard proposal covers 3-point street homologation; FIA 8853 6-point track harness requires an external motorsport partner.
+- Pyrotechnic Retractor & Buckle: Proprietary dual-stage micro-gas generator with 5.0 milliseconds firing time and active crash-pulse shaping.
+- Load Limiter Architecture: Electronically switchable multi-level torsion bar (4.5 kN / 2.6 kN) that adapts automatically to occupant mass via seat weight sensors.
+- Pre-Crash Integration: Active Seatbelt Retractor (ASR) seamlessly integrated with Volkswagen Group / Rimac / Bugatti CAN-FD safety architecture.
+
+2. HYPERCAR LIGHTWEIGHTING & EXOTIC MATERIALS
+- Total Installed Vehicle Mass (2 Seats Complete): 2,480 grams per car (1,240 grams per seat) -- slightly exceeds the 2,400g target due to heavy-duty dual-motor electric pre-tensioner gearbox and high-strength steel retractor frame.
+- Hardware Metallurgy: High-strength micro-alloyed boron steel retractor frame with forged aluminum D-rings (Titanium upgrade requires extra tooling).
+- Webbing Spec: 1.18 mm high-tenacity polyester webbing, 27.0 kN breaking strength, 5.8% elongation.
+
+3. BUGATTI BESPOKE CRAFTSMANSHIP, LUXURY & ACOUSTICS/NVH
+- Bespoke Customization: Supports 25 standard luxury colors; custom single-car Sur Mesure Pantone dyeing requires outsourcing to boutique textile partners with longer lead times.
+- UV & Abrasion Resistance: Delta-E = 0.90 after 1,500 hours Xenon-Arc. 80,000 cycle abrasion durability.
+- Tactile & Acoustic Engineering: Leather-wrapped buckle housing over engineered polymer core (contains internal structural polymer shell). Buckle click is 53.0 dB.
+- NVH Performance: Benchmark mass-luxury silent retractor (0 dB rattle) with integrated motorized presenter gear drive.
+
+4. MANUFACTURING QUALITY & ZERO-DEFECT TRACEABILITY
+- Certifications: IATF 16949:2016, ISO 14001, VDA 6.3 Audit Score 97% (Rating A).
+- Historical Defect Rate: 0.3 PPM across luxury OEM lines.
+- Inspection Protocol: 100% automated inline X-ray inspection, acoustic end-of-line testing, and cloud digital twin archiving for 30 years.
+
+5. COMMERCIAL ECONOMICS & LOW-VOLUME NRE STRUCTURE
+- Upfront NRE & Homologation Sled Testing: EUR 1,650,000 total (high corporate Tier-1 engineering overhead for a 250-unit production run).
+- Unit BOM Price (Per 2-Seat Vehicle Shipset): EUR 2,150.
+- Bespoke Sur Mesure Color Surcharge: EUR 1,200 per single-car custom dye lot due to large industrial dye vats.
+
+6. SUPPLY CHAIN RESILIENCE & MOLSHEIM ATELIER LOGISTICS
+- Delivery to Molsheim: 8.5-week lead time for bespoke single-vehicle colors (5 weeks for standard black/tan/blue).
+- Sub-Tier Sourcing: 100% European supply chain with massive financial stability. 15-year warranty and 35-year spares support.

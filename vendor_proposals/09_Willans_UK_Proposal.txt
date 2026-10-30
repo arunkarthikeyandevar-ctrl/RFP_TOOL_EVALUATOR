@@ -1,0 +1,34 @@
+RFP RESPONSE: BUGATTI-W16-V16-HYPER-RESTRAINT-2026
+SUBMITTED BY: Willans Harness Manufacture Ltd. (Silverstone Technology Cluster, United Kingdom)
+OEM SUPERCAR PEDIGREE: Iconic British artisan supplier for the McLaren F1, Gordon Murray T.50 fan-car, and bespoke Concours hypercar commissions.
+
+1. CRASH PHYSICS, PYROTECHNICS & GLOBAL HOMOLOGATION
+- Homologation Coverage: FIA 8853-2016 and UN/ECE R16 small-series certification. LIMITATION: Does NOT hold independent FMVSS 209/210 active pyrotechnic retractor certification for US road cars without partnering with a Tier-1 pyrotechnic integrator.
+- Pyrotechnic Retractor & Buckle: Partner-supplied pyrotechnic retractor fires in 6.6 milliseconds; Willans specializes in mechanical inertia reels and multi-point rotary buckles.
+- Load Limiter Architecture: Mechanical 4.3 kN torsion bar with calibrated energy-rip stitch folds.
+- Pre-Crash Integration: Passive mechanical lock only; requires external ECU actuator module for active pre-crash tensioning.
+
+2. HYPERCAR LIGHTWEIGHTING & EXOTIC MATERIALS
+- Total Installed Vehicle Mass (2 Seats Complete): 1,640 grams per car (820 grams per seat) -- Gordon Murray T.50 inspired featherweight philosophy.
+- Hardware Metallurgy: 100% bespoke 5-axis CNC-machined British Ti-6Al-4V titanium buckles, D-rings, and hollowed titanium mounting bolts.
+- Webbing Spec: 1.00 mm bespoke British-woven high-tenacity polyester/Vectran ribbon, 28.1 kN breaking strength, 4.6% elongation.
+
+3. BUGATTI BESPOKE CRAFTSMANSHIP, LUXURY & ACOUSTICS/NVH
+- Bespoke Customization: Unrivaled Savile Row-level customization--unlimited Pantone colors, sterling silver or 18k gold-inlaid Bugatti Macaron buckle badges, Bridge of Weir leather sleeves (MOQ 1 car).
+- UV & Abrasion Resistance: Delta-E = 0.92 after 1,500 hours Xenon-Arc. 60,000 cycle abrasion endurance.
+- Tactile & Acoustic Engineering: Hand-polished solid billet titanium buckle tuned to a 55.0 dB mechanical watch-clasp click.
+- NVH Performance: 0 dB rattle on static buckles; mechanical retractor pawl has mild vintage click during extraction.
+
+4. MANUFACTURING QUALITY & ZERO-DEFECT TRACEABILITY
+- Certifications: ISO 9001:2015, FIA 8853 Approved Manufacturer. Note: Does NOT hold mass-production IATF 16949 certification (VDA 6.3 equivalent: 86%).
+- Historical Defect Rate: 1.8 PPM (100% hand-built and individually inspected by master technicians).
+- Inspection Protocol: 100% individual tensile proof test and dye-penetrant/X-ray inspection of titanium billets; signed craftsman build book + 40-year archive.
+
+5. COMMERCIAL ECONOMICS & LOW-VOLUME NRE STRUCTURE
+- Upfront NRE & Homologation Sled Testing: EUR 490,000 total (lowest NRE in the field, tailored specifically for 250-car hypercar runs).
+- Unit BOM Price (Per 2-Seat Vehicle Shipset): EUR 3,150 (above EUR 2,800 target due to 100% billet CNC machining per car).
+- Bespoke Sur Mesure Color Surcharge: EUR 250 per car.
+
+6. SUPPLY CHAIN RESILIENCE & MOLSHEIM ATELIER LOGISTICS
+- Delivery to Molsheim: 4.0-week lead time from Silverstone, UK to Molsheim, France (post-Brexit bonded air/road express courier included).
+- Sub-Tier Sourcing: UK and European titanium; external pyrotechnic sub-supplier. 15-year warranty and lifetime heritage re-webbing service.

@@ -1,0 +1,34 @@
+RFP RESPONSE: BUGATTI-W16-V16-HYPER-RESTRAINT-2026
+SUBMITTED BY: OMP Racing S.p.A. (Via Bazzano 5, Ronco Scrivia, Genoa, Italy)
+OEM SUPERCAR PEDIGREE: World leader in FIA Formula 1 and Le Mans hypercar harnesses (Dallara, Pagani track cars, Maserati GT2).
+
+1. CRASH PHYSICS, PYROTECHNICS & GLOBAL HOMOLOGATION
+- Homologation Coverage: FIA 8853-2016 and UN/ECE R16 certified. WARNING: FMVSS 209/210 (USA) and GB 14166 (China) road homologation for pyrotechnic 3-point retractors is NOT currently held in-house and requires an estimated 9-month external certification program.
+- Pyrotechnic Retractor & Buckle: Third-party integrated pyrotechnic module firing in 6.8 milliseconds (slightly slower than the <= 6.5 ms requirement).
+- Load Limiter Architecture: Single-stage 4.2 kN torsion bar with stitched energy-absorbing webbing tear-loops.
+- Pre-Crash Integration: Basic CAN trigger support; lacks native reversible motorized ADAS pre-tensioner experience.
+
+2. HYPERCAR LIGHTWEIGHTING & EXOTIC MATERIALS
+- Total Installed Vehicle Mass (2 Seats Complete): 1,590 grams per car (795 grams per seat) -- lightest proposal in the field using F1 Dyneema technology.
+- Hardware Metallurgy: 5-axis CNC-machined Ti-6Al-4V titanium and Ergal 7075 aluminum hardware throughout.
+- Webbing Spec: OMP Dyneema-Pro 0.95 mm ultra-light webbing, 31.0 kN breaking strength, 3.8% elongation.
+
+3. BUGATTI BESPOKE CRAFTSMANSHIP, LUXURY & ACOUSTICS/NVH
+- Bespoke Customization: 50+ Pantone colors with custom jacquard embroidery (MOQ 1 car).
+- UV & Abrasion Resistance: Dyneema blend exhibits slightly higher UV sensitivity (Delta-E = 1.45 after 1,500 hours Xenon-Arc, exceeding the < 1.2 limit unless treated with darker pigments).
+- Tactile & Acoustic Engineering: Billet anodized aluminum and Alcantara buckle; click sound is 61.0 dB (loud racing rotary/latch click).
+- NVH Performance: Motorsport-grade retractor springs produce mild mechanical wind-up sound; requires extra acoustic foam isolation in Bugatti B-pillar.
+
+4. MANUFACTURING QUALITY & ZERO-DEFECT TRACEABILITY
+- Certifications: ISO 9001, FIA 8853 Quality Standard. Note: Full IATF 16949:2016 certification is currently in progress for their road-car division (VDA 6.3 score: 88%).
+- Historical Defect Rate: 3.1 PPM.
+- Inspection Protocol: 100% tensile proof-load testing and optical verification; X-ray CT outsourced for pyrotechnics.
+
+5. COMMERCIAL ECONOMICS & LOW-VOLUME NRE STRUCTURE
+- Upfront NRE & Homologation Sled Testing: EUR 540,000 total.
+- Unit BOM Price (Per 2-Seat Vehicle Shipset): EUR 2,390.
+- Bespoke Sur Mesure Color Surcharge: EUR 290 per car.
+
+6. SUPPLY CHAIN RESILIENCE & MOLSHEIM ATELIER LOGISTICS
+- Delivery to Molsheim: 4.5-week lead time from Genoa, Italy to Molsheim.
+- Sub-Tier Sourcing: Italian hardware, outsourced pyrotechnic initiators. 10-year standard warranty (extendable to 15 years at extra cost).

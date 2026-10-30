@@ -1,0 +1,11 @@
+# NEVER upload secret API keys to GitHub
+.streamlit/secrets.toml
+.env
+*.env
+
+# Ignore Python cache and temporary folders
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.DS_Store

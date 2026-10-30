@@ -1,0 +1,34 @@
+RFP RESPONSE: BUGATTI-W16-V16-HYPER-RESTRAINT-2026
+SUBMITTED BY: Joyson Safety Systems GmbH (Bahnweg 1, Aschaffenburg, Germany)
+OEM SUPERCAR PEDIGREE: Existing supplier to Volkswagen Group ultra-luxury brands (Bentley, Porsche, Lamborghini) and historical Bugatti safety component partner.
+
+1. CRASH PHYSICS, PYROTECHNICS & GLOBAL HOMOLOGATION
+- Homologation Coverage: Complete worldwide certification: UN/ECE R16, FMVSS 209/210, CMVSS, GB 14166, and TRIAS. Optional inflatable belt (Beltbag) technology available. Does not manufacture FIA 8853 6-point racing harnesses in-house.
+- Pyrotechnic Retractor & Buckle: Dual-stage pyrotechnic retractor + buckle pretensioner firing in 5.6 milliseconds.
+- Load Limiter Architecture: Stepless adaptive torsion bar (4.5 kN to 2.7 kN) with pyrotechnic switchover valve.
+- Pre-Crash Integration: Full native VW/Bugatti CAN-FD & PSI5 reversible motorized pre-tensioning (195 N).
+
+2. HYPERCAR LIGHTWEIGHTING & EXOTIC MATERIALS
+- Total Installed Vehicle Mass (2 Seats Complete): 2,380 grams per car (1,190 grams per seat) -- just inside the 2,400g maximum limit.
+- Hardware Metallurgy: High-strength alloy steel spool with CNC aluminum housing and titanium anchor plates.
+- Webbing Spec: 1.14 mm luxury soft-touch high-tenacity polyester webbing, 26.8 kN breaking strength, 5.7% elongation.
+
+3. BUGATTI BESPOKE CRAFTSMANSHIP, LUXURY & ACOUSTICS/NVH
+- Bespoke Customization: Aschaffenburg Luxury Atelier supports 50+ Pantone webbing colors and hand-sewn leather buckle covers matched to Bugatti hides.
+- UV & Abrasion Resistance: Delta-E = 0.88 after 1,500 hours Xenon-Arc. 70,000 cycle abrasion endurance.
+- Tactile & Acoustic Engineering: Zero visible plastic; full leather and brushed palladium-plated aluminum buckle. Latch click is 54.0 dB.
+- NVH Performance: Whisper-quiet luxury retractor (0 dB rattle) engineered for Rolls-Royce and Bentley cabin silence.
+
+4. MANUFACTURING QUALITY & ZERO-DEFECT TRACEABILITY
+- Certifications: IATF 16949:2016, ISO 14001, VDA 6.3 Audit Score 93% (Rating A).
+- Historical Defect Rate: 1.4 PPM on current European luxury lines.
+- Inspection Protocol: 100% automated 3D X-ray CT inspection of pyrotechnic assemblies and 30-year digital traceability.
+
+5. COMMERCIAL ECONOMICS & LOW-VOLUME NRE STRUCTURE
+- Upfront NRE & Homologation Sled Testing: EUR 1,180,000 total (exceeds EUR 850k target due to corporate Tier-1 validation overhead).
+- Unit BOM Price (Per 2-Seat Vehicle Shipset): EUR 2,490.
+- Bespoke Sur Mesure Color Surcharge: EUR 650 per vehicle (above EUR 450 target).
+
+6. SUPPLY CHAIN RESILIENCE & MOLSHEIM ATELIER LOGISTICS
+- Delivery to Molsheim: 6.0-week lead time from Aschaffenburg, Germany (230 km from Molsheim) in JIS sequenced cases.
+- Sub-Tier Sourcing: Dual-sourced European and North American sub-tiers. 15-year warranty and 35-year spares guarantee.

@@ -1,0 +1,34 @@
+RFP RESPONSE: BUGATTI-W16-V16-HYPER-RESTRAINT-2026
+SUBMITTED BY: Sparco S.p.A. (Via Leini 524, Volpiano, Turin, Italy)
+OEM SUPERCAR PEDIGREE: OEM carbon monocoque and restraint supplier to Lamborghini, Koenigsegg, Lotus Evija, and Aston Martin Valkyrie.
+
+1. CRASH PHYSICS, PYROTECHNICS & GLOBAL HOMOLOGATION
+- Homologation Coverage: UN/ECE R16, FMVSS 209/210, and FIA 8853-2016 certified.
+- Pyrotechnic Retractor & Buckle: Single-stage pyrotechnic retractor with auxiliary buckle pretensioner (sourced via external Tier-1 pyrotechnic partner); firing time is 6.4 milliseconds.
+- Load Limiter Architecture: Dual-stage mechanical torsion bar rated at 4.5 kN / 2.9 kN.
+- Pre-Crash Integration: Supports standard 12V reversible electric motor pre-tensioning (150 N pull force) over CAN bus.
+
+2. HYPERCAR LIGHTWEIGHTING & EXOTIC MATERIALS
+- Total Installed Vehicle Mass (2 Seats Complete): 1,680 grams per car (840 grams per seat) -- ultra-lightweight autoclave carbon construction.
+- Hardware Metallurgy: Autoclave pre-preg carbon-fiber retractor shells and buckle covers with CNC Grade 5 Titanium (Ti-6Al-4V) tongues and D-rings.
+- Webbing Spec: Sparco Superleggera 0.98 mm Dyneema-Polyester hybrid ribbon, 28.9 kN breaking strength, 4.5% elongation.
+
+3. BUGATTI BESPOKE CRAFTSMANSHIP, LUXURY & ACOUSTICS/NVH
+- Bespoke Customization: Full Italian bespoke leather, Alcantara, and exposed tinted carbon-fiber weave matching Bugatti bodywork (50+ Pantone colors, MOQ 1 car).
+- UV & Abrasion Resistance: Delta-E = 1.12 after 1,500 hours Xenon-Arc. 52,000 cycle abrasion endurance.
+- Tactile & Acoustic Engineering: Exposed forged carbon and billet titanium buckle. Buckle latch click is slightly louder and more motorsport-raw at 59.5 dB (exceeds the 58 dB upper horological target).
+- NVH Performance: Minor mechanical pawl clicking audible during rapid belt extraction; 0 dB rattle once latched.
+
+4. MANUFACTURING QUALITY & ZERO-DEFECT TRACEABILITY
+- Certifications: IATF 16949:2016, ISO 9001, ISO 14001, VDA 6.3 Audit Score 91% (Rating B+, just shy of 92% Rating A threshold).
+- Historical Defect Rate: 2.3 PPM (slightly above the 2.0 PPM ceiling due to manual hand-laid carbon trim cosmetic variations).
+- Inspection Protocol: 100% ultrasonic and X-ray inspection of structural hardware; 30-year QR traceability.
+
+5. COMMERCIAL ECONOMICS & LOW-VOLUME NRE STRUCTURE
+- Upfront NRE & Homologation Sled Testing: EUR 610,000 total.
+- Unit BOM Price (Per 2-Seat Vehicle Shipset): EUR 2,590.
+- Bespoke Sur Mesure Color Surcharge: EUR 350 per vehicle.
+
+6. SUPPLY CHAIN RESILIENCE & MOLSHEIM ATELIER LOGISTICS
+- Delivery to Molsheim: 5.5-week lead time from Turin to Molsheim in carbon-shell presentation cases.
+- Sub-Tier Sourcing: European titanium and Italian textiles; pyrotechnic gas generators single-sourced from external partner. 15-year warranty and 35-year spares.

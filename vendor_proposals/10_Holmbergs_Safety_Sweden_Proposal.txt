@@ -1,0 +1,34 @@
+RFP RESPONSE: BUGATTI-W16-V16-HYPER-RESTRAINT-2026
+SUBMITTED BY: Holmbergs Safety System AB (montorgatan 9, Halmstad, Sweden)
+OEM SUPERCAR PEDIGREE: Swedish high-load precision buckle and restraint engineering specialist supplying boutique Scandinavian hypercars and specialty OEMs.
+
+1. CRASH PHYSICS, PYROTECHNICS & GLOBAL HOMOLOGATION
+- Homologation Coverage: UN/ECE R16, FMVSS 209/210, and GB 14166 certified. FIA 8853 track harness available as secondary kit.
+- Pyrotechnic Retractor & Buckle: Swedish-German co-engineered dual-stage pyrotechnic retractor firing in 6.1 milliseconds.
+- Load Limiter Architecture: Dual-stage torsion bar (4.5 kN / 2.8 kN) machined from Swedish Uddeholm tool steel and titanium.
+- Pre-Crash Integration: CAN-FD reversible motorized retractor (175 N pre-tensioning) compatible with modern hypercar architectures.
+
+2. HYPERCAR LIGHTWEIGHTING & EXOTIC MATERIALS
+- Total Installed Vehicle Mass (2 Seats Complete): 1,980 grams per car (990 grams per seat).
+- Hardware Metallurgy: Swedish Grade 5 Titanium and ultra-clean recycled Scandinavian billet aluminum housings.
+- Webbing Spec: 1.06 mm high-tenacity polyester webbing, 27.4 kN breaking strength, 5.2% elongation.
+
+3. BUGATTI BESPOKE CRAFTSMANSHIP, LUXURY & ACOUSTICS/NVH
+- Bespoke Customization: Supports 40 Pantone webbing colors; custom leather wrapping performed via partner saddlery in Sweden (MOQ 1 car).
+- UV & Abrasion Resistance: Delta-E = 1.02 after 1,500 hours Xenon-Arc. 65,000 cycle abrasion endurance.
+- Tactile & Acoustic Engineering: Minimalist Scandinavian CNC metal buckle with leather trim; latch click is 56.8 dB.
+- NVH Performance: 0 dB cabin rattle; smooth retractor payout and motorized presenter compatibility.
+
+4. MANUFACTURING QUALITY & ZERO-DEFECT TRACEABILITY
+- Certifications: IATF 16949:2016, ISO 9001, ISO 14001, VDA 6.3 Audit Score 93% (Rating A).
+- Historical Defect Rate: 1.5 PPM.
+- Inspection Protocol: 100% automated optical and X-ray inspection of locking mechanisms; 30-year QR digital traceability.
+
+5. COMMERCIAL ECONOMICS & LOW-VOLUME NRE STRUCTURE
+- Upfront NRE & Homologation Sled Testing: EUR 760,000 total.
+- Unit BOM Price (Per 2-Seat Vehicle Shipset): EUR 2,520.
+- Bespoke Sur Mesure Color Surcharge: EUR 410 per vehicle.
+
+6. SUPPLY CHAIN RESILIENCE & MOLSHEIM ATELIER LOGISTICS
+- Delivery to Molsheim: 5.5-week lead time from Halmstad, Sweden to Molsheim, France inside custom protective cases.
+- Sub-Tier Sourcing: 100% Scandinavian and German metallurgy. 15-year structural warranty and 35-year classic spares commitment.
